@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "First Test Post on Patternloading V3.0"
 date:   2021-03-12 12:47:22 -0600
 categories: jekyll update
 ---
