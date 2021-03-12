@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: PatternLoading Test Deployment
+title: PatternLoading 
 email: echevarian@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a test deployment of the third version of the patternloading blog using Fleek and IPFS. 
+  Patternloading is a running weblog of my thoughts and perspectives hosted through Fleek on IPFS. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: josiahalanlee
