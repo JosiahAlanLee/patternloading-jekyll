@@ -21,14 +21,14 @@
 title: PatternLoading 
 email: echevarian@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Patternloading is a running weblog of my thoughts hosted through Fleek on IPFS. 
+  Patternloading is a running log of my thoughts hosted through Fleek on IPFS. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: josiahalanlee
 github_username:  JosiahAlanLee
 
 # Build settings
-theme: minima
+remote_theme: abhinavs/moonwalk
 plugins:
   - jekyll-feed
 
