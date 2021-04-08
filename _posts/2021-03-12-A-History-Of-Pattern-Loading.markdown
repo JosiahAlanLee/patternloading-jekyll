@@ -4,7 +4,7 @@ title:  "A History of Pattern Loading"
 date:   2021-03-12 19:47:22 -0600
 categories: jekyll update
 ---
-The last time I had something resembling a blog it was at <a href="https://patternloading.wordpress.com">a Wordpress Site</a>, and it was mostly just a collection of Soundcloud links in 2014. As those links were all broken I've cleaned out the old posts and added my current collection of mixtapes if you're feeling interested.
+The last time I had something resembling a blog it was at <a href="https://patternloading.wordpress.com">a Wordpress Site</a>, and it was mostly just a collection of Soundcloud links in 2014. As those links were all broken I've cleaned out the old posts and added my current collection of mixtapes if you're feeling interested... 
 
 In 2019 I ran a small music label on Bandcamp, which you can find <a href="https://patternloading.bandcamp.com/">here.</a> 
 
