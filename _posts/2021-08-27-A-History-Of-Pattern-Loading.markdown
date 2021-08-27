@@ -8,9 +8,7 @@ The last time I had something resembling a blog it was at <a href="https://patte
 
 I run a small music label on Bandcamp, which you can find <a href="https://patternloading.bandcamp.com/">here.</a> 
 
-Prior to even the 2014 iteration I ran a Wordpress site which I have saved but has been scoured from the face of the internet.
-
-This site "Pattern Loader" was essentially done in 2009. 
+Prior to even the 2014 iteration I ran a Wordpress site which I have saved but has been scoured from the face of the internet. This site "Pattern Loader" was essentially done in 2009. 
 
 And prior to even that I ran a couple of Blogspot sites under the alias "scarboi" starting in 2003. 
 
